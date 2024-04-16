@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "FlorianBlume3"
 facebook:
   username               :
   app_id                 :
@@ -97,37 +97,43 @@ author:
   name             : "Florian Blume"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD research studen at TU Berlin working on face perception in computer vision."
-  location         : "Berlin"
+  location         : "Berlin, Germany"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:florianblume@tu-berlin.de"
-    - label: "Website"
+      url: "mailto:florian.blume@tu-berlin.de"
+    - label: "SCIoI Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://florianblume.github.io"
+      url: "https://www.scienceofintelligence.de/people/florian-blume/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/FlorianBlume3"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/florianblume"
+    - label: "Stack Overflow"
+      icon: "fab fa-stack-overflow"
+      url: "https://stackoverflow.com/users/3165451/florian-blume"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:florianblume@tu-berlin.de"
-    - label: "Website"
+      url: "mailto:florian.blume@tu-berlin.de"
+    - label: "SCIoI Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://florianblume.github.io"
+      url: "https://www.scienceofintelligence.de/people/florian-blume/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/FlorianBlume3"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/florianblume"
+    - label: "Stack Overflow"
+      icon: "fab fa-stack-overflow"
+      url: "https://stackoverflow.com/users/3165451/florian-blume"
 
 
 # Reading Files
