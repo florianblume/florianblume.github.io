@@ -1,0 +1,148 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Florian Blume
+    tagline: PhD Student - Machine Learning/Computer Vision
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: florian.blume@tu-berlin.de
+    phone: 
+    timezone: Berlin Timezone
+    citizenship:
+    website: https://www.scienceofintelligence.de/people/florian-blume/ #blog.webjeda.com #do not add http://
+    linkedin: florianblume
+    xing: #alandoe
+    github: florianblume
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@FlorianBlume3'
+    stack-overflow: 3165451/florian-blume # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
+    googlescholar:
+    semanticscholar:
+    researchgate:
+    orcid:
+    
+
+    languages:
+      title: Languages
+      info:
+        - idiom: German
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+
+publications:
+    title: Publications
+    intro: |
+      I was first (or shared-first) author of the following publications:
+    papers:
+      - title: "Multi-Task Multi-Modal Self-Supervised Learning for Facial Expression Recognition"
+        link: "https://openaccess.thecvf.com/content/CVPR2024W/ABAW/html/Halawa_Multi-Task_Multi-Modal_Self-Supervised_Learning_for_Facial_Expression_Recognition_CVPRW_2024_paper.html"
+        authors: Marah Halawa, Florian Blume, Pia Bideau, Martin Maier, Rasha Abdel Rahman, Olaf Hellwich
+        conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2024, pp. 4604-4614"
+
+      - title: "Knowledge-augmented face perception: Prospects for the Bayesian brain-framework to align AI and human vision"
+        link: "https://www.sciencedirect.com/science/article/pii/S1053810022000332"
+        authors: M Maier, F Blume, P Bideau, O Hellwich, RA Rahman
+        conference: "Consciousness and Cognition, Volume 101, 2022, ISSN 1053-8100"
+
+education:
+    title: Education
+    info:
+      - degree: Diploma in Computer Science
+        university: Technical University of Dresden
+        time: 2012 - 2019
+        details: |
+          With a focus on
+            - Machine Learning
+            - Computer Vision
+            - Theoretical Computer Science
+      - degree: BSc in Computer Science
+        university: Karlsruhe Institute of Technology (KIT)
+        time: 2011 - 2012
+
+experiences:
+    title: Experience
+    info:
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+
+projects:
+    title: Projects
+    intro: >
+      Some of my open source projects on GitHub:
+    assignments:
+      - title: 6D-PAT
+        link: "https://github.com/florianblume/6d-pat"
+        tagline: "With 6D-PAT you can create 6D annotations on images for 6D pose estimation, i.e. annotate 2D images with the 3D rotation and 3D translation of 3D models."
+
+      - title: ConCluGen
+        link: "https://github.com/tub-cv-group/conclugen"
+        tagline: "Code for our paper \"Multi-Task Multi-Modal Self-Supervised Learning for Facial Expression Recognition\""
+
+      - title: Qt3D Offscreen Renderer
+        link: "https://github.com/florianblume/Qt3D-OffscreenRenderer"
+        tagline: "Implementation of an offscreen renderer for the Qt3D framework."
+
+      - title: Qt3D-Widget
+        link: "https://github.com/florianblume/qt3d-widget"
+        tagline: "Implementation of a Qt widget that allows to embed Qt3D."
+
+      - title: Qt3D Gizmo
+        link: "https://github.com/florianblume/qt3d-widget"
+        tagline: "A 3D gizmo implemented for the Qt3D framework."
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: C++
+        level: 70%
+
+      - name: Illustrator & Inkscape
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>, (C) 2024 Florian Blume
