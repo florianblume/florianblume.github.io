@@ -67,21 +67,29 @@ publications:
 education:
     title: Education
     info:
+      - degree: PhD in computer Science
+        university: Technical University of Berlin
+        time: 2020 (ongoing)
+        details: |
+          Focus on
+            - Facial expression recognition in context
+            - Computer vision
+            - Interdisciplinary work with psychologists
       - degree: Diploma in Computer Science
         university: Technical University of Dresden
         time: 2012 - 2019
         details: |
           Grade: very good (1.4)
-          With a focus on
-            - Machine Learning
-            - Computer Vision
-            - Theoretical Computer Science
+          Focus on
+            - Machine learning
+            - Computer vision
+            - Theoretical computer science
       - degree: BSc in Computer Science
         university: Karlsruhe Institute of Technology
         time: 2011 - 2012
 
 experiences:
-    title: Experience
+    title: Work Experience
     info:
       - role: Research Assistant
         time: 05/2019 - 09/2019
