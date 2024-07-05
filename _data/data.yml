@@ -17,7 +17,7 @@ sidebar:
     phone: 
     timezone: Berlin Timezone
     citizenship:
-    website: https://www.scienceofintelligence.de/people/florian-blume/ #blog.webjeda.com #do not add http://
+    website: scienceofintelligence.de/people/florian-blume #blog.webjeda.com #do not add http://
     linkedin: florianblume
     xing: #alandoe
     github: florianblume
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: 3165451/florian-blume # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
     googlescholar:
     semanticscholar:
     researchgate:
@@ -47,12 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi! My name is Florian Blume and I am a fourth-year PhD student at Technical University of Berlin in Olaf Hellwich's computer vision lab. My research is focused on better alining human perception and synthetic processing in the case of facial expression recognition. We perceive in context and draw on prior knowledge that we have acquired but artificial systems largely do not. In my PhD, I lay the foundation for a research path that focuses on bridging this gap. I am currently writing up my thesis, if you are interested in my research or have job opportunities, hit me up!
 
 publications:
     title: Publications
@@ -66,7 +61,7 @@ publications:
 
       - title: "Knowledge-augmented face perception: Prospects for the Bayesian brain-framework to align AI and human vision"
         link: "https://www.sciencedirect.com/science/article/pii/S1053810022000332"
-        authors: M Maier, F Blume, P Bideau, O Hellwich, RA Rahman
+        authors: Martin Maier, Florian Blume, Pia Bideau, Olaf Hellwich, Rasha Abdel Rahman
         conference: "Consciousness and Cognition, Volume 101, 2022, ISSN 1053-8100"
 
 education:
@@ -76,32 +71,43 @@ education:
         university: Technical University of Dresden
         time: 2012 - 2019
         details: |
+          Grade: very good (1.4)
           With a focus on
             - Machine Learning
             - Computer Vision
             - Theoretical Computer Science
       - degree: BSc in Computer Science
-        university: Karlsruhe Institute of Technology (KIT)
+        university: Karlsruhe Institute of Technology
         time: 2011 - 2012
 
 experiences:
     title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Research Assistant
+        time: 05/2019 - 09/2019
+        company: Max Planck institute für molecular cell biology, Dresden
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Development of an application to create mobile machine control apps.
+      - role: Student Employee
+        time: 02/2017 - 12/2017
+        company: Monkey Works GmbH, Dresden
+        details: |
+          Development of an application to create mobile machine control apps.
+      - role: Research Assistant
+        time: 03/2017 - 09/2017
+        company: Computer lab of the faculty of law, Dresden
+        details: |
+          Assisting in running the computer lab.
+      - role: Student Employee
+        time: 09/2015 - 12/2016
+        company: exedio GmbH, Dresden
+        details: |
+          Java-based backend development.
+      - role: Student Employee
+        time: 03/2014 - 08/2015
+        company: Konsole Labs GmbH, Dresden
+        details: |
+          Development of iOS radio apps.
 
 projects:
     title: Projects
@@ -128,21 +134,36 @@ projects:
         link: "https://github.com/florianblume/qt3d-widget"
         tagline: "A 3D gizmo implemented for the Qt3D framework."
 
+certifications:
+      title: Awards
+      list:
+        - name: Deutschlandstipendium
+          start: 2015
+          end: 2016
+          details: |
+            Receiver of the Deutschlandstipendium scholarship for talented students for one year.
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 98%
+      - name: Python & Pytorch
+        level: 100%
+
+      - name: Tensorflow
+        level: 80%
 
       - name: C++
         level: 70%
 
       - name: Illustrator & Inkscape
-        level: 60%
+        level: 70%
+
+      - name: Java
+        level: 65%
 
       - name: HTML5 & CSS
-        level: 50%
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>, (C) 2024 Florian Blume
