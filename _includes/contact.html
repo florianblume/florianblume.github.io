@@ -86,7 +86,7 @@
     {% endif %}
 
     {% if sidebar.semantic-scholar %}
-    <li class="semantic-scholar"><i class="fab fa-building-columns"></i>
+    <li class="semantic-scholar"><i class="fab fa-book"></i>
       <a href="https://www.semanticscholar.org/author/{{ sidebar.semantic-scholar }}" target="_blank">{{ sidebar.semantic-scholar }}</a>
     </li>
     {% endif %}
@@ -99,7 +99,7 @@
 
     {% if sidebar.orcid %}
     <li class="orcid"><i class="fab fa-orcid"></i>
-      <a href="https://orcid.org/my-orcid?orcid={{ sidebar.orcid }}" target="_blank">{{ sidebar.orcid }}</a>
+      <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank">{{ sidebar.orcid }}</a>
     </li>
     {% endif %}
 
