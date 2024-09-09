@@ -54,6 +54,11 @@ publications:
     intro: |
       I was first (or shared-first) author of the following publications:
     papers:
+      - title: "How Do You Perceive My Face? Recognizing Facial Expressions in Multi-Modal Context by Modeling Mental Representations"
+        link: "https://arxiv.org/abs/2409.02566"
+        authors: Florian Blume, Runfeng Qu, Pia Bideau, Martin Maier, Rasha Abdel Rahman, Olaf Hellwich
+        conference: "Accepted to GCPR 2024"
+
       - title: "Multi-Task Multi-Modal Self-Supervised Learning for Facial Expression Recognition"
         link: "https://openaccess.thecvf.com/content/CVPR2024W/ABAW/html/Halawa_Multi-Task_Multi-Modal_Self-Supervised_Learning_for_Facial_Expression_Recognition_CVPRW_2024_paper.html"
         authors: Marah Halawa, Florian Blume, Pia Bideau, Martin Maier, Rasha Abdel Rahman, Olaf Hellwich
