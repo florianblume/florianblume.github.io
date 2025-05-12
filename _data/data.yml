@@ -72,10 +72,11 @@ publications:
 education:
     title: Education
     info:
-      - degree: PhD in computer Science (magna cum laude)
+      - degree: PhD in computer Science
         university: Technical University of Berlin
         time: 2020 - 2025
         details: |
+          Magna cum laude
           Focus on
             - Facial expression recognition in context
             - Computer vision
