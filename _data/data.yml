@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: florian.blume@tu-berlin.de
+    email: florian.r.blume@gmail.com
     phone: 
     timezone: Berlin Timezone
     citizenship:
@@ -74,7 +74,7 @@ education:
     info:
       - degree: PhD in computer Science
         university: Technical University of Berlin
-        time: 2020 (ongoing)
+        time: 2020 - 2025
         details: |
           Focus on
             - Facial expression recognition in context
