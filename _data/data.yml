@@ -42,12 +42,12 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Professional (C1)
 
 career-profile:
     title: Career Profile
     summary: |
-      Hi! My name is Florian Blume and I am a fourth-year PhD student at Technical University of Berlin in Olaf Hellwich's computer vision lab. My research is focused on better alining human perception and synthetic processing in the case of facial expression recognition. We perceive in context and draw on prior knowledge that we have acquired but artificial systems largely do not. In my PhD, I lay the foundation for a research path that focuses on bridging this gap. I am currently writing up my thesis, if you are interested in my research or have job opportunities, hit me up!
+      PhD in Computer Vission & Machine Learning (TU Berlin), with a focus on context-aware facial expression recognition using multi-modal deep learning. Experienced in interdisciplinary research, project management and team leadership. Seeking a posiLon as a machine learning research scientist or engineer.
 
 publications:
     title: Publications
@@ -161,19 +161,43 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Pytorch
+      - name: Python
         level: 100%
 
-      - name: Tensorflow
-        level: 80%
+      - name: PyTorch
+        level: 100%
+
+      - name: PyTorch Lightning
+        level: 100%
+
+      - name: CometML
+        level: 100%
+
+      - name: MLFlow
+        level: 100%
+
+      - name: Research & Analysis
+        level: 100%
+
+      - name: Project Managmeent
+        level: 100%
+
+      - name: Scientific Writing
+        level: 100%
 
       - name: C++
+        level: 85%
+
+      - name: Qt
+        level: 85%
+
+      - name: TensorFlow
+        level: 80%
+
+      - name: Java
         level: 70%
 
       - name: Illustrator & Inkscape
-        level: 70%
-
-      - name: Java
         level: 65%
 
       - name: HTML5 & CSS
