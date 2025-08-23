@@ -97,11 +97,21 @@ education:
 experiences:
     title: Work Experience
     info:
+      - role: Ph.D. Researcher
+        time: 03/2020 - 01/2025
+        company: Technical University of Berlin
+        details: |
+            - Dissertation: “Knowledge-Augmented and Context-Sensitive Face Perception” within interdisciplinary excellence cluster Science of Intelligence
+            - Goal: Develop multi-modal deep-learning models for context-sensiGve facial expression recognition, integrating vision, audio, and language.
+            - Developed a theoretical framework for the topic from a joint psychological – ML viewpoint, combined with a literature analysis (Consciousness and Cognition '22).
+            - Developed a multi-task multi-modal self-supervised learning (SSL) approach to shape representation space. Combined vision models with an audio model and an LLM, improved accuracy by more than 5% over other SSL approaches that use the same modalities (CVPR'24).
+            - Fused generative AI models with a self-attention and a classification module to classify and simultaneously generate context-augmented facial expressions. Generations were verified as approximations of mental representations in a study with human participants (GCPR'24).
       - role: Research Assistant
         time: 05/2019 - 09/2019
         company: Max Planck institute für molecular cell biology, Dresden
         details: |
-          Development of an application to create mobile machine control apps.
+          - Master’s thesis: Implemented and compared four reinforcement learning approaches for improving denoising biological microscopy images of cells
+          - Capstone project: Developed a 6D pose annota6on tool and CNNs for surgical instrument localizaGon in laparoscopic videos
       - role: Student Employee
         time: 02/2017 - 12/2017
         company: Monkey Works GmbH, Dresden
